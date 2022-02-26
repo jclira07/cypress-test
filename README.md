@@ -1,2 +1,1 @@
-# joao-lira-qa-test
-Rain test
+# cypress test
